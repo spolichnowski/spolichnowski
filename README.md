@@ -2,6 +2,7 @@
 
 <!--
 **spolichnowski/spolichnowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
 I'm Stanislaw,
 I'm a third-year student of Computer Games. Although games brought me into IT it was always more of a hobby for me. This is my seventh year of Computer Science education! I started with simple computer assembling at the age of 15 and now I'm in the middle of yet the most important project in my life. "An Automated Sign Language Interpreter" my final project at University!
